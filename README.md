@@ -7,6 +7,7 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [Communities](#communities)
 - [Deliverability](#deliverability)
 - [Discoverability](#discoverability)
+  - [Readers](#readers)
   - [Directories](#directories)
   - [Podcasts](#podcasts)
 - [Platforms](#platforms)
@@ -37,6 +38,9 @@ A collection of awesome email newsletter tools, platforms, media, and software.
 - [GMass](https://www.gmass.co/) - platform used to increase open rates and send bulk emails
 
 ## Discoverability
+
+#### Readers
+- [Slick Inbox](https://slickinbox.com) - dedicated newsletter reader to make your reading experience better.
 
 #### Directories
 
